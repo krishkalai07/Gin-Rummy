@@ -8,5 +8,7 @@ A complete software design documentaion is pubished under then "Documentation" f
 Source codes are published under the "src" folder.
 
 # How to launch
+```
 javac Game.java
 java Game
+```
